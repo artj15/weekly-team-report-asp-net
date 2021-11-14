@@ -1,2 +1,1 @@
-# Weekly Team Report ASP.NET C# Practicum Fork Project 
-
+[![codecov](https://codecov.io/gh/Xander11rgn/weekly-team-report-asp-net/branch/feature/dotnet-solution/graph/badge.svg?token=4316a1c7-a8e4-4de5-9f10-8d2a4a4c1382)](https://codecov.io/gh/artj15/weekly-team-report-asp-net)
